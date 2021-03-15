@@ -65,7 +65,7 @@ export default class HomeScreen extends React.Component {
               definition: '',
             });
           }}
-          placeholder='Search word'></TextInput>
+          placeholder= 'Search word'></TextInput>
         <TouchableOpacity
           style={styles.buttonStyle}
           onPress={() => {
